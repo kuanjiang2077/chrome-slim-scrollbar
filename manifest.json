@@ -2,7 +2,6 @@
     "name": "Scrollbar Slim for chrome",
     "version": "1.0",
     "description": "Build an Extension!",
-    "permissions": ["activeTab", "declarativeContent", "storage"],
     
     "content_scripts": [
         {
